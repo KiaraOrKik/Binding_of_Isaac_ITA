@@ -1,11 +1,11 @@
 <items gfxroot="gfx/items/" version="1">
-	<passive cache="firedelay" description="Tears up" gfx="Collectibles_001_TheSadOnion.png" id="1" name="The Sad Onion" />
-	<passive cache="firedelay" description="Triple shot" gfx="Collectibles_002_TheInnerEye.png" id="2" name="The Inner Eye" />
-	<passive cache="speed tearcolor tearflag" description="Homing shots" gfx="Collectibles_003_SpoonBender.png" id="3" name="Spoon Bender" />
-	<passive cache="damage shotspeed" description="DMG up" gfx="Collectibles_004_CricketsHead.png" id="4" name="Cricket's Head" />
-	<passive cache="tearflag shotspeed range" description="Boomerang tears" gfx="Collectibles_005_MyReflection.png" id="5" name="My Reflection" />
-	<passive cache="firedelay range tearcolor" description="Tears up" gfx="Collectibles_006_NumberOne.png" id="6" name="Number One" />
-	<passive cache="damage" description="DMG up" gfx="Collectibles_007_BloodOfTheMartyr.png" id="7" name="Blood of the Martyr" />
+	<passive cache="firedelay" description="Lacrime aumentate" gfx="Collectibles_001_TheSadOnion.png" id="1" name="La cipolla triste" />
+	<passive cache="firedelay" description="Colpo triplo" gfx="Collectibles_002_TheInnerEye.png" id="2" name="Terzo occhio" />
+	<passive cache="speed tearcolor tearflag" description="Proiettili a ricerca" gfx="Collectibles_003_SpoonBender.png" id="3" name="Piegatore di cucchiai" />
+	<passive cache="damage shotspeed" description="Danno aumentato" gfx="Collectibles_004_CricketsHead.png" id="4" name="Testa di Cricket" />
+	<passive cache="tearflag shotspeed range" description="Lacrime boomerang" gfx="Collectibles_005_MyReflection.png" id="5" name="Il mio riflesso" />
+	<passive cache="firedelay range tearcolor" description="Lacrime aumentate" gfx="Collectibles_006_NumberOne.png" id="6" name="La numero uno" />
+	<passive cache="damage" description="Danno aumentato" gfx="Collectibles_007_BloodOfTheMartyr.png" id="7" name="Il sangue del Martire" />
 	<familiar description="Friends 'till the end" gfx="Collectibles_008_BrotherBobby.png" id="8" name="Brother Bobby" />
 	<passive description="Fly love" gfx="Collectibles_009_Skatole.png" id="9" name="Skatole" />
 	<familiar description="Projectile protection " gfx="Collectibles_010_HaloOfFlies.png" id="10" name="Halo of Flies" />
